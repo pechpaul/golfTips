@@ -1,0 +1,19 @@
+{
+  "name": "golftips",
+  "version": "1.0.0",
+  "description": "golf tips for courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pechpaul/golfTips.git"
+  },
+  "author": "Paul Gabriel Pech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pechpaul/golfTips/issues"
+  },
+  "homepage": "https://github.com/pechpaul/golfTips#readme"
+}
